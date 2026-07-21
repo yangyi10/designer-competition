@@ -2,7 +2,7 @@
 const works = [
     {
         id: 1,
-        title: 'Storm 羚羊风暴',
+        title: '羚羊风暴',
         author: '徐 瑛、张以恒、宋思澄',
         category: 'fitness',
         categoryName: '健身器材',
